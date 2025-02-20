@@ -50,11 +50,11 @@
     },
     {
       "method": "fetchzip",
-      "path": "/nix/store/p4k913q1js14fr06hmx2cg1ygwi9iil9-source",
-      "rev": "c0c4e55f166dd74f32af0d4fef8c9b7d2f0de2e3",
-      "sha256": "1kqhm1j2i2rszsb381xdi4r7a7r25xfd3lph5z3lckfika2nl6lg",
-      "url": "https://github.com/can-lehmann/owlkettle/archive/c0c4e55f166dd74f32af0d4fef8c9b7d2f0de2e3.tar.gz",
-      "ref": "HEAD",
+      "path": "/nix/store/ax2p5d7wz6ipj0y2zpd9rckzzj7a6f0q-source",
+      "rev": "861092dc931e754650a735af590fbc34becc3942",
+      "sha256": "100vxxdpzayj44syfkwn5nrpk5189qiky43xh7w3k908yxrq0jbj",
+      "url": "https://github.com/can-lehmann/owlkettle/archive/861092dc931e754650a735af590fbc34becc3942.tar.gz",
+      "ref": "v3.0.0",
       "packages": [
         "owlkettle"
       ],
@@ -98,11 +98,11 @@
     },
     {
       "method": "fetchzip",
-      "path": "/nix/store/siwzcdg6wcs9hjrbvkj75bq2m2d23f77-source",
-      "rev": "a2c3f8b9114b87380a35c83ff84b84c9ddebe744",
-      "sha256": "110h74lqs0nvw1kvg6d4z91b4ak4byx7zmj1zigb8a977lifkfly",
-      "url": "https://github.com/johnnovak/nim-nanovg/archive/a2c3f8b9114b87380a35c83ff84b84c9ddebe744.tar.gz",
-      "ref": "HEAD",
+      "path": "/nix/store/nzqdyy9q0q0rrlpmjmihrq084nyskidd-source",
+      "rev": "44dc097236de00c09ffed13d4e4aeaff1473870e",
+      "sha256": "0m7bdiz3dnmdb5cc8k4sksmb71mlg1n75582zv5hhvp2jsj9sxsa",
+      "url": "https://github.com/johnnovak/nim-nanovg/archive/44dc097236de00c09ffed13d4e4aeaff1473870e.tar.gz",
+      "ref": "v0.4.0",
       "packages": [
         "nanovg"
       ],
@@ -137,7 +137,7 @@
       "rev": "ec7732a4810441a937fe3059494ba338090c4957",
       "sha256": "0dw33jprxrc23bj0b6ypbg6n940nzxlrxa57df88q4ly1xvi6w1h",
       "url": "https://github.com/euantorano/semver.nim/archive/ec7732a4810441a937fe3059494ba338090c4957.tar.gz",
-      "ref": "HEAD",
+      "ref": "v1.2.3",
       "packages": [
         "semver"
       ],
@@ -145,11 +145,11 @@
     },
     {
       "method": "fetchzip",
-      "path": "/nix/store/3ialll0wlam866l6hicg5m6f26n0nd5a-source",
-      "rev": "548d0adc9797a10b2db7f788b804330306293088",
-      "sha256": "11q86jp9nqqr8yvgc3wh9vp589nw0l9ilnr0x5xijwd6akpk8z4k",
-      "url": "https://github.com/status-im/nim-serialization/archive/548d0adc9797a10b2db7f788b804330306293088.tar.gz",
-      "ref": "HEAD",
+      "path": "/nix/store/d6c7dvmzzvc1ja7kf65jbclbjv74zll7-source",
+      "rev": "2086c99608b4bf472e1ef5fe063710f280243396",
+      "sha256": "1m7c9bvxarw167kd5mpfnddzydji03azhz347hvad592qfw4vwrc",
+      "url": "https://github.com/status-im/nim-serialization/archive/2086c99608b4bf472e1ef5fe063710f280243396.tar.gz",
+      "ref": "v0.2.6",
       "packages": [
         "serialization"
       ],
@@ -157,11 +157,11 @@
     },
     {
       "method": "fetchzip",
-      "path": "/nix/store/k4zcwvir22kb93ggxlvhxvcffqlpql01-source",
-      "rev": "d7a6868ba84165e7fdde427af9a1fc3f5f5cc151",
-      "sha256": "1sgjjch28c6is1rcj6x5m2ig4gdc0l9i18ypcx5bn83nai2syc4q",
-      "url": "https://github.com/status-im/nim-stew/archive/d7a6868ba84165e7fdde427af9a1fc3f5f5cc151.tar.gz",
-      "ref": "HEAD",
+      "path": "/nix/store/a5kmnnbk27rxk9vsx1vchiiq9znkpijf-source",
+      "rev": "79e4fa5a9d3374db17ed63622714d3e1094c7f34",
+      "sha256": "0x92sgnxczwx5ak067d6169j9qm0cdpbrcpp1ijrzgyfgknpyq0r",
+      "url": "https://github.com/status-im/nim-stew/archive/79e4fa5a9d3374db17ed63622714d3e1094c7f34.tar.gz",
+      "ref": "v0.2.0",
       "packages": [
         "stew"
       ],
@@ -181,11 +181,11 @@
     },
     {
       "method": "fetchzip",
-      "path": "/nix/store/9jmcsrli1y89c68kf1shyp9l39x07ycm-source",
-      "rev": "7a420498f60a31d99fc8513886ce36c4e8c3a4ae",
-      "sha256": "0faf2w70wxxc8d5b53jljw4xp57qlds7yrbwm14j03kx6sxrav1n",
-      "url": "https://github.com/Araq/libcurl/archive/7a420498f60a31d99fc8513886ce36c4e8c3a4ae.tar.gz",
-      "ref": "HEAD",
+      "path": "/nix/store/bqmdy8vic5wfvpc9hqp4rfrhjlxz4d7c-source",
+      "rev": "45b2b0bb753fe2376a205a183b2b3f291e19ba14",
+      "sha256": "1yz1lcclmhvji34ccymglzg535b3xfz0x4m12n3n22cxz156j63x",
+      "url": "https://github.com/Araq/libcurl/archive/45b2b0bb753fe2376a205a183b2b3f291e19ba14.tar.gz",
+      "ref": "v1.0.0",
       "packages": [
         "libcurl"
       ],
@@ -265,11 +265,11 @@
     },
     {
       "method": "fetchzip",
-      "path": "/nix/store/22mhy1rl34qwa9nnajxzanc6hax1fcdn-source",
-      "rev": "9c716f162ad4f44def506dcdf9f6ebd0563991dc",
-      "sha256": "0sjccvbnn458fl5a1m2yigbjpjsqd64qrbl8v53mrfyyxqd20ygq",
-      "url": "https://github.com/status-im/nim-unittest2/archive/9c716f162ad4f44def506dcdf9f6ebd0563991dc.tar.gz",
-      "ref": "HEAD",
+      "path": "/nix/store/2ksmfd7p93a1a7ibcv3qzsk8h3c3shz7-source",
+      "rev": "845b6af28b9f68f02d320e03ad18eccccea7ddb9",
+      "sha256": "1c55kl05pbavm9v5dv42n43sql9qcrblhh3hnp99p5xmlv20c9vf",
+      "url": "https://github.com/status-im/nim-unittest2/archive/845b6af28b9f68f02d320e03ad18eccccea7ddb9.tar.gz",
+      "ref": "v0.2.3",
       "packages": [
         "unittest2"
       ],
@@ -281,7 +281,7 @@
       "rev": "df8113dda4c2d74d460a8fa98252b0b771bf1f27",
       "sha256": "1h7amas16sbhlr7zb7n3jb5434k98ji375vzw72k1fsc86vnmcr9",
       "url": "https://github.com/arnetheduck/nim-results/archive/df8113dda4c2d74d460a8fa98252b0b771bf1f27.tar.gz",
-      "ref": "HEAD",
+      "ref": "v0.5.1",
       "packages": [
         "results"
       ],
